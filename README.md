@@ -1,4 +1,5 @@
-## Awesome Genetic Programming
+# Awesome Genetic Programming
+[Chinese Version (中文版)](https://github.com/hengzhe-zhang/awesome-genetic-programming/blob/master/awesome-genetic-programming-CN.md)
 
 ### Papers
 
@@ -195,21 +196,21 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 ##### **Regression**
 
 * SRBench
-  * 机器学习套件，包含真实机器学习问题和合成问题
+  * A machine learning benchmark suite, containing real-world machine learning problems and synthetic problems
   * https://github.com/cavalab/srbench/
 
 ##### **Classification**
 
 * DIGEN
-  * 基于遗传编程算法合成的分类问题
+  * Classification problems synthesized by GP
   * https://github.com/EpistasisLab/digen/
 * PMLB
-  * 包含大量真实机器学习问题
+  * Including a large number of real-world machine learning problems
   * https://github.com/EpistasisLab/pmlb
 
-### 必看期刊/会议
+### Journal/Conference
 
-##### **期刊**
+##### **Journal**
 
 * **《IEEE Transactions on Evolutionary Computation》（JCR Q1，CCF B）**
   * The best journal in the field of evolutionary computation, the first choice for groundbreaking achievements in the field of GP
@@ -224,7 +225,7 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 * **《Genetic Programming and Evolvable Machines》**
   * The only professional journal in the field of GP with high quality papers
 
-##### **会议**
+##### **Conference**
 
 * **The Genetic and Evolutionary Computation Conference (*GECCO*, CCF C)**
   * The top annual conference in the field of evolutionary computation, with high quality GP papers
@@ -246,7 +247,7 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 
 ### Seven Tricks in Genetic Programming
 
-Here we focus on seven tricks for GP-based machine learning algorithms. The following seven techniques have been validated in the open source framework [Evolutionary Forest]().
+Here we focus on seven tricks for GP-based machine learning algorithms. The following seven techniques have been validated in the open source framework [Evolutionary Forest](https://github.com/hengzhe-zhang/EvolutionaryForest/).
 
 1. **Crossover Rate**: Please try to use a large crossover rate and a small mutation rate.
 
