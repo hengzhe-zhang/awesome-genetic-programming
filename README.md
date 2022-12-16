@@ -1,5 +1,5 @@
 # Awesome Genetic Programming
-[Chinese Version (中文版)](https://github.com/hengzhe-zhang/awesome-genetic-programming/blob/master/awesome-genetic-programming-CN.md)
+[Chinese Version (中文版)](https://zhuanlan.zhihu.com/p/519338969)
 
 ### Papers
 
