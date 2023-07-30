@@ -126,6 +126,12 @@ In addition to job-shop scheduling and arc routing problems, GP has some applica
 * **Linear-GP Redundancy Analysis**：Sotto L F D P, Rothlauf F, de Melo V V, et al. An Analysis of the Influence of Noneffective Instructions in Linear Genetic Programming[J]. Evolutionary Computation, 2022.
 
 
+#### **Classical Papers**
+Below is an incomplete list of papers published more than five years ago, which are still worth reading. Please feel free to suggest any additional papers that you believe are worth including.
+
+* **Equation Discovery**: Schmidt, M., & Lipson, H. (2009). Distilling free-form natural laws from experimental data. science, 324(5923), 81-85.
+
+
 ### Domain Experts
 
 Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
