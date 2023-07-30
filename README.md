@@ -27,6 +27,7 @@ Wrapper Method (Feature engineering based on a specific model), this type of met
 * **KNN Enhancement**：La Cava W, Silva S, Danai K, et al. Multidimensional genetic programming for multiclass classification[J]. Swarm and Evolutionary Computation, 2019.
 * **Random Forest Enhancement**：H. Zhang, A. Zhou and H. Zhang, An Evolutionary Forest for Regression[J]. IEEE Transactions on Evolutionary Computation, 2021.
 * **Decision Tree Enhancement**：Zhang H, Zhou A, Qian H, et al. PS-Tree: A piecewise symbolic regression tree[J]. Swarm and Evolutionary Computation, 2022.
+* **Heterogenous Ensemble Enhancement**：Zhang, H., Zhou, A., Chen, Q., Xue, B., & Zhang, M., SR-Forest: A Genetic Programming based Heterogeneous Ensemble Learning Method[J]. IEEE Transactions on Evolutionary Computation, 2023.
 
 Filter Method (Feature engineering based on statistical information), this type of method is fast but less accurate
 
