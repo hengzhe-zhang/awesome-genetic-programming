@@ -137,6 +137,7 @@ Below is an incomplete list of papers published more than five years ago, which 
 * **eureqa**: https://www.datarobot.com/blog/eureqa-how-a-bored-undergrads-algorithm-achieved-3000-academic-citations/ (3000+ Citations)
 * **PySR**: https://astroautomata.com/PySR/papers/ (1000+ Citations)
 * **Deepmind LGP**: https://mp.weixin.qq.com/s/dpiJMscroHxcq3rB901Iiw (1000+ Reads in One Day, In Chinese)
+* **Jürgen Schmidhuber's Story**: https://people.idsia.ch/~juergen/genetic-programming-1987.html (Father of LSTM)
 
 ### Domain Experts
 
