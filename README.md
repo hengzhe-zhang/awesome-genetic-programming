@@ -132,6 +132,12 @@ Below is an incomplete list of papers published more than five years ago, which 
 * **Equation Discovery**: Schmidt, M., & Lipson, H. (2009). Distilling free-form natural laws from experimental data. science, 324(5923), 81-85.
 
 
+
+### Interesting Stories
+* **eureqa**: https://www.datarobot.com/blog/eureqa-how-a-bored-undergrads-algorithm-achieved-3000-academic-citations/ (3000+ Citations)
+* **PySR**: https://astroautomata.com/PySR/papers/ (1000+ Citations)
+* **Deepmind LGP**: https://mp.weixin.qq.com/s/dpiJMscroHxcq3rB901Iiw (1000+ Reads in One Day, In Chinese)
+
 ### Domain Experts
 
 Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
@@ -139,7 +145,7 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 * Mengjie Zhang
   * Victoria University of Wellington
   * Research Direction: Evolutionary Machine Learning
-  * Representative Works: MOGP
+  * Representative Works: GP for Feature Construction
 * Michael O'Neill
   * University College Dublin
   * Research Direction: Procedural Synthesis
@@ -147,7 +153,7 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 * Wolfgang Banzhaf
   * Michigan State University
   * Research Direction: Procedural Synthesis
-  * Representative Works: Genetic Improvement
+  * Representative Works: Linear Genetic Programming
 * Lee Spector 
   * University of Massachusetts Amherst
   * Research Direction: Procedural Synthesis
