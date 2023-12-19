@@ -42,17 +42,25 @@ Application
 
 ##### **Symbolic Regression**
 
+Learning Scenario
+
 * **Domain Adaptation**：Chen Q, Xue B, Zhang M. Genetic programming for instance transfer learning in symbolic regression[J]. IEEE Transactions on Cybernetics, 2020.
 * **Cross-domain Data Imputation**：Al-Helali B, Chen Q, Xue B, et al. Multitree Genetic Programming With New Operators for Transfer Learning in Symbolic Regression With Incomplete Data[J]. IEEE Transactions on Evolutionary Computation, 2021.
 * **Feature Selection**：Chen Q, Zhang M, Xue B. Feature selection to improve generalization of genetic programming for high-dimensional symbolic regression[J]. IEEE Transactions on Evolutionary Computation, 2017.
 * **Multitask Learning**：Zhong J, Feng L, Cai W, et al. Multifactorial genetic programming for symbolic regression problems[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018.
 
+Individual Representation
+
+* **Modular Representation**： Zhang H, Chen Q, Xue B, et al. Modular Multi-Tree Genetic Programming for Evolutionary Feature Construction for Regression[J]. IEEE Transactions on Evolutionary Computation, 2023.
+  
 Crossover/Mutation Operator
 
 * **Linkage Learning**：Virgolin M, Alderliesten T, Witteveen C, et al. Improving model-based genetic programming for symbolic regression of small expressions[J]. Evolutionary Computation, 2021.
 * **Bayesian Networks for Distributed Learning**：Wong P K, Wong M L, Leung K S. Probabilistic Contextual and Structural Dependencies Learning in Grammar-Based Genetic Programming[J]. Evolutionary Computation, 2021.
 * **Semantic Crossover**：Chen Q, Xue B, Zhang M. Improving generalization of genetic programming for symbolic regression with angle-driven geometric semantic operators[J]. IEEE Transactions on Evolutionary Computation, 2018.
 * **Semantic Crossover+MILP**：Huynh Q N, Chand S, Singh H K, et al. Genetic programming with mixed-integer linear programming-based library search[J]. IEEE Transactions on Evolutionary Computation, 2018.
+* **Hoist Mutation (Bloat Control)**：Zhang H, Chen Q, Xue B, et al. A Semantic-Based Hoist Mutation Operator for Evolutionary Feature Construction in Regression[J]. IEEE Transactions on Evolutionary Computation, 2023.
+
 
 Evaluation Operator
 
@@ -114,9 +122,10 @@ In addition to job-shop scheduling and arc routing problems, GP has some applica
 * **Multitask Learning**：Kelly S, Heywood M I. Emergent solutions to high-dimensional multitask reinforcement learning[J]. Evolutionary Computation, 2018.
 * **Transfer Learning**：Kelly S, Heywood M I. Discovering agent behaviors through code reuse: Examples from half-field offense and ms. pac-man[J]. IEEE Transactions on Games, 2017.
 * **MCTS Enhancement**：Holmgård C, Green M C, Liapis A, et al. Automated playtesting with procedural personas through MCTS with evolved heuristics[J]. IEEE Transactions on Games, 2018.
+* **Interpretable Robot Control:** Kelly S, Park D S, Song X, et al. Discovering adaptable symbolic algorithms from scratch[C]//2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3889-3896.
 
 ##### **Program Synthesis**
-
+* **LLM-based Evolution:** Romera-Paredes B, Barekatain M, Novikov A, et al. Mathematical discoveries from program search with large language models[J]. Nature, 2023: 1-3.
 * **Genetic Improvement**：Yuan Y, Banzhaf W. Arja: Automated repair of java programs via multi-objective genetic programming[J]. IEEE Transactions on Software Engineering, 2018.
 * **Regular Expression Generation**：Bartoli A, De Lorenzo A, Medvet E, et al. Automatic search-and-replace from examples with coevolutionary genetic programming[J]. IEEE transactions on Cybernetics, 2019.
 * **Entity Extraction**：Bartoli A, De Lorenzo A, Medvet E, et al. Active learning of regular expressions for entity extraction[J]. IEEE transactions on Cybernetics, 2017.
@@ -131,8 +140,6 @@ Below is an incomplete list of papers published more than five years ago, which 
 
 * **Equation Discovery**: Schmidt, M., & Lipson, H. (2009). Distilling free-form natural laws from experimental data. science, 324(5923), 81-85.
 
-
-
 ### Interesting Stories
 * **eureqa**: https://www.datarobot.com/blog/eureqa-how-a-bored-undergrads-algorithm-achieved-3000-academic-citations/ (3000+ Citations)
 * **PySR**: https://astroautomata.com/PySR/papers/ (1000+ Citations)
@@ -141,7 +148,7 @@ Below is an incomplete list of papers published more than five years ago, which 
 
 ### Domain Experts
 
-Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
+**GPBIB Ranking**: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
 
 * Mengjie Zhang
   * Victoria University of Wellington
@@ -167,6 +174,11 @@ Reference Ranking: http://gpbib.cs.ucl.ac.uk/gp-html/index.html
   * Massachusetts Institute of Technology
   * Research Direction: Symbolic Regression
   * Representative Works: M4GP，EFS
+
+**Scopus 2020-2024 Ranking**
+![image](https://github.com/hengzhe-zhang/awesome-genetic-programming/assets/18747119/a2193f94-1faf-4402-b1c4-4ab5ef1b6464)
+
+![image](https://github.com/hengzhe-zhang/awesome-genetic-programming/assets/18747119/55d133b0-b5ae-4e3a-9bbc-e39199462f21)
 
 ### Open-source Framework
 
