@@ -174,6 +174,12 @@ Below is an incomplete list of papers published more than five years ago, which 
   * Massachusetts Institute of Technology
   * Research Direction: Symbolic Regression
   * Representative Works: M4GP，EFS
+* William B Langdon
+  * UCL
+  * Research Direction: Genetic Improvement
+* John Koza
+  * Stanford University
+  * Research Direction: GP
 
 **Scopus 2020-2024 Ranking**
 ![image](https://github.com/hengzhe-zhang/awesome-genetic-programming/assets/18747119/a2193f94-1faf-4402-b1c4-4ab5ef1b6464)
