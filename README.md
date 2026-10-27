@@ -3,13 +3,13 @@
 
 ### Papers
 
-The following papers list contains some papers that have made significant contributions to the field of genetic programming in the past five years. Here are some reading suggestions:
+The following paper list contains some papers that have made significant contributions to the field of genetic programming in the past five years. Here are some reading suggestions:
 
-* **Machine Learning Theory:** This series of papers are recommended for all students studying GP machine learning
+* **Machine Learning Theory:** This series of papers is recommended for all students studying GP machine learning
 * **Symbolic regression, image classification, unsupervised learning:** These series are independent of each other and can be read on demand
-* **Feature Engineering:** This series of papers are recommended for students who want to use GP to apply to real-world regression/classification problems
-* **Operation research optimization, reinforcement learning:** This series of papers are self-contained, no need to read other series of papers in advance
-* **Program synthesis:** This series of papers are recommended for students with computer background to read
+* **Feature Engineering:** This series of papers is recommended for students who want to apply GP to real-world regression/classification problems
+* **Operation research optimization, reinforcement learning:** This series of papers is self-contained, no need to read other series of papers in advance
+* **Program synthesis:** This series of papers is recommended for students with computer background to read
 
 ##### **Machine Learning Theory**
 
@@ -299,7 +299,7 @@ Here we focus on seven tricks for GP-based machine learning algorithms. The foll
 
 4. **Preprocessing**: Feature standardization is an important way to improve the model fitting capability.
 
-   Reason: GP is good at structural optimization, not good at optimizing scaling factor.
+   Reason: GP is good at structural optimization, not good at optimizing scaling factors.
 
    Paper：C. A. Owen, G. Dick and P. A. Whigham, Standardisation and Data Augmentation in Genetic Programming[J]. IEEE Transactions on Evolutionary Computation, 2022.
 
